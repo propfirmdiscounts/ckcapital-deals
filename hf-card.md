@@ -115,7 +115,7 @@ This repository tracks all historical deals for **CK PropFirm** published on Pro
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T13:29:37Z (auto, hourly)
+Last synced: 2026-10-29T14:19:18Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
