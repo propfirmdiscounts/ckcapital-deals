@@ -100,4 +100,4 @@ This repository tracks all historical deals for **CK PropFirm** published on Pro
 
 ---
 
-Last synced: 2026-10-29T02:04:51Z (auto, hourly)
+Last synced: 2026-10-29T06:30:46Z (auto, hourly)
