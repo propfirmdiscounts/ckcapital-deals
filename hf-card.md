@@ -1,45 +1,69 @@
 ---
 license: other
+pretty_name: CK PropFirm Discount Code
 configs:
 - config_name: ckcapital-deals
   data_files:
   - split: data
     path: datasets/ckcapital-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - ckcapital
 ---
 
-# CK PropFirm - Discount Codes & Deal History
+# CK PropFirm Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-23, the verified CK PropFirm discount code is **PFD** — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/ckcapital/
+> CK Capital is a premium proprietary trading evaluation firm dedicated to discovering, developing, and scaling trading talent through a structured and transparent two-step evaluation process. This includes the CK Capital Challenge followed by a Verification stage, designed to assess consistency, discipline, and professional risk management.
+> We offer traders access to capital allocation of up to $1.2 million, empowering them to grow responsibly while trading under clearly defined rules. Our evaluation model is built to support sustainable performance rather than short-term speculation.
+> Traders can operate on industry-standard platforms such as MT5 and TradeLocker, with access to multiple markets including Forex, Crypto, and Commodities. We provide a competitive payout model with profit splits of up to 100%, rewarding traders fairly for their performance.
+> At CK Capital, integrity, transparency, and trader success are at the core of everything we do. With 24/7 support, clear guidelines, and a professional trading environment, we are committed to helping both experienced traders and emerging talent refine their strategies and reach their full potential.
+>
+> — CK PropFirm, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/ckcapital.co.uk)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-23
+- Trustpilot: 3/5 (407 reviews)
+- Activate: https://propfirmdiscount.com/go/ckcapital
+- Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **10% off** on CK PropFirm challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all CK PropFirm evaluation accounts.
+## Current CK PropFirm deal: 80% Off Challenges in Final 24 Hours
+
+- Published: 2026-10-23
+- Offer ends: 2026-10-24 (ended)
+- Offer: 80% off
+- Scope: 2-Step Pro, Other Challenges, No Consistency Rule On 2-Step Pro, News Trading Allowed
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/
+
+## CK PropFirm discount code FAQ
+
+**What is the CK PropFirm discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 10% off CK PropFirm challenges and accounts.
+
+**Does the CK PropFirm discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current CK PropFirm deal?**
+
+**80% Off Challenges in Final 24 Hours** — published 2026-10-23. Offer ends: 2026-10-24 (ended). The offer is 80% off.
 
 ---
 
-## Latest Deal
-
-### CK PropFirm - 80% Off Challenges in Final 24 Hours
-
-**Published:** 2026-10-23  
-**Offer ends:** 2026-10-24 (ended)  
-**Discount:** 80% off  
-**Scope:** 2-Step Pro, Other Challenges, No Consistency Rule On 2-Step Pro, News Trading Allowed  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **50**
 
@@ -105,19 +129,20 @@ Total deals tracked: **50**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **CK PropFirm** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **CK PropFirm** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/ckcapital/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/ckcapital/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
