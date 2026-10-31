@@ -84,7 +84,7 @@ Total deals tracked: **50**
 | 2026-08-06 | 70% Off Evaluation Account Purchase Cost | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-percent-off-discount/) |
 | 2026-08-01 | 65% Off Trading Challenges and 70% Off Account Resets Entry Fee | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-65-off-august-evaluation-promo/) |
 | 2026-07-07 | 70% Off All Evaluation Accounts and 75% Off Resets | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-july/) |
-| 2026-07-04 | Independence Day Offer: Buy 1 Get Up to 4 Accounts | Buy 1 Get 1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/) |
+| 2026-07-04 | Independence Day Offer: Buy 1 Get Up to 4 Accounts | Buy 1 Get 1 | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/) |
 | 2026-06-16 | 40% Price Reduction for All Trading Challenges | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-40-percent-discount-june-promo/) |
 | 2026-06-01 | 70% OFF All Evaluations and 75% OFF Resets | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/70-off-all-evaluations-and-75-off-resets/) |
 | 2026-05-17 | 85% Off $2.5K to $10K Challenge Pricing | 85% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-85-off-evaluations/) |
@@ -92,14 +92,14 @@ Total deals tracked: **50**
 | 2026-05-12 | Buy 1 Get 1 Free 10K Challenge Pricing Limit 100 Spots | Buy 1 Get 1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-buy-1-get-1-free-10k-account/) |
 | 2026-05-02 | 50% Off All Evaluation Accounts and 70% Off Resets | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-50-off-evaluations-resets-may/) |
 | 2026-04-16 | Starting Evaluation Accounts for $9 ($11 Off) | $11 OFF | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-9-dollar-promotion/) |
-| 2026-04-04 | 70% Off Evaluation Accounts and Free Reset Easter Promotion | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-easter-evaluation-discount/) |
+| 2026-04-04 | 70% Off Evaluation Accounts and Free Reset Easter Promotion | 70% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-easter-evaluation-discount/) |
 | 2026-04-01 | 70% Off Evaluation Accounts and 60% Off Resets for 72 Hours | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-april-flash-sale/) |
-| 2026-03-20 | 70% Off All Evaluations and 60% Off Resets For Eid Al-Fitr | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-eid-al-fitr/) |
+| 2026-03-20 | 70% Off All Evaluations and 60% Off Resets For Eid Al-Fitr | 70% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-eid-al-fitr/) |
 | 2026-03-09 | Secure a $10,000 Evaluation Account for $19 with 85% Off | 85% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-85-percent-off-10000-evaluation-19/) |
 | 2026-03-07 | 50% Off Trading Challenges and 60% Off Resets | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-50-percent-off-evaluations-60-percent-off-resets/) |
 | 2026-03-01 | 50% Off All Evaluations Plus 1 Free Reset & 60% Off Future Resets | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-50-off-free-reset-promo/) |
-| 2026-02-19 | 70% Off All Trading Challenges And Resets | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-ramadan-promotion/) |
-| 2026-02-12 | 70% Off Trading Challenge Fees and Resets Valentine's Day | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluation-accounts-resets-valentines-day/) |
+| 2026-02-19 | 70% Off All Trading Challenges And Resets | 70% off | Ended | Ramadan | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-ramadan-promotion/) |
+| 2026-02-12 | 70% Off Trading Challenge Fees and Resets Valentine's Day | 70% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluation-accounts-resets-valentines-day/) |
 | 2026-02-08 | 60% Reduction on Challenge Pricing - Limited Offer | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-flash-deal-60-off/) |
 | 2026-02-01 | 50% Off Challenges and 60% Off Reset Fees | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-50-off-accounts-60-off-resets/) |
 | 2026-01-30 | 70% Off $5K and $10K Challenge Pricing | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-percent-off-5k-10k-evaluations/) |
@@ -110,15 +110,15 @@ Total deals tracked: **50**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-24 | Christmas Offer: 70% OFF Evaluations + Account Giveaway | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-christmas-offer-70-off/) |
+| 2025-12-24 | Christmas Offer: 70% OFF Evaluations + Account Giveaway | 70% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-christmas-offer-70-off/) |
 | 2025-12-16 | $10K Challenge for $40 - Limited Availability | Only $40 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-10k-challenge-40/) |
 | 2025-12-16 | $5K Challenge for $20 - Limited 100 Slots | Only $20 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-5k-challenge-20/) |
 | 2025-12-04 | Flash Sale: $5K Account for Only $19 | Only $19 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-5k-account-19-offer/) |
 | 2025-12-03 | December Promo: 50% OFF All Account Models | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-december-promo-50-off/) |
-| 2025-12-01 | Cyber Monday Exclusive: 70% Off $5K & $10K Accounts | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-cyber-monday-70-off-evaluations/) |
-| 2025-12-01 | Cyber Monday Flash Sale: 40% Off All Challenges | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-cyber-monday-40-off-all-challenges/) |
-| 2025-11-27 | Black Friday Exclusive: 70% OFF $5K & $10K Accounts | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-black-friday-70-off-5k-10k/) |
-| 2025-11-27 | Black Friday Deal: 40% OFF All Challenges | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-black-friday-40-off-all-challenges/) |
+| 2025-12-01 | Cyber Monday Exclusive: 70% Off $5K & $10K Accounts | 70% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-cyber-monday-70-off-evaluations/) |
+| 2025-12-01 | Cyber Monday Flash Sale: 40% Off All Challenges | 40% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-cyber-monday-40-off-all-challenges/) |
+| 2025-11-27 | Black Friday Exclusive: 70% OFF $5K & $10K Accounts | 70% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-black-friday-70-off-5k-10k/) |
+| 2025-11-27 | Black Friday Deal: 40% OFF All Challenges | 40% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-black-friday-40-off-all-challenges/) |
 | 2025-11-13 | 30% OFF Instant Funding (November, From $44) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-30-off-instant-funding-november-from-44/) |
 | 2025-11-13 | 50% OFF 1-Step & 2-Step + 50% Off Resets (November Promo) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-50-off-1-step-2-step-plus-50-off-resets-november-promo/) |
 | 2025-10-20 | 50% OFF 1-Step & 2-Step + Free Reset/Retry (1 Week, 100 Uses) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-50-off-1-step-2-step-free-reset-retry-1-week-100-uses/) |
