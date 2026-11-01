@@ -19,7 +19,7 @@ tags:
 
 # CK PropFirm Discount Code
 
-As of 2026-10-23, the verified CK PropFirm discount code is **PFD** — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-23, the verified CK PropFirm discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > CK Capital is a premium proprietary trading evaluation firm dedicated to discovering, developing, and scaling trading talent through a structured and transparent two-step evaluation process. This includes the CK Capital Challenge followed by a Verification stage, designed to assess consistency, discipline, and professional risk management.
 > We offer traders access to capital allocation of up to $1.2 million, empowering them to grow responsibly while trading under clearly defined rules. Our evaluation model is built to support sustainable performance rather than short-term speculation.
