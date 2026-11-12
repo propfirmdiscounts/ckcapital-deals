@@ -13,7 +13,7 @@ As of 2026-11-11, the verified CK PropFirm discount code is PFD — up to 10% OF
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-11
-- Trustpilot: 3/5 (409 reviews)
+- Trustpilot: 3/5 (416 reviews)
 - Activate: https://propfirmdiscount.com/go/ckcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
@@ -54,7 +54,7 @@ Total deals tracked: **53**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-11-11 | Black Friday: 80% Off Challenges | 80% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) |
-| 2026-11-06 | Diwali 80% Off All Challenges | 80% off | 2026-11-11 | Diwali | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/) |
+| 2026-11-06 | Diwali 80% Off All Challenges | 80% off | 2026-11-11 (ended) | Diwali | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/) |
 | 2026-11-02 | 75% off every challenge account | 75% off | 2026-11-30 | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/) |
 | 2026-10-23 | 80% Off Challenges in Final 24 Hours | 80% off | 2026-10-24 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/) |
 | 2026-10-20 | 80% Off Challenge Fees: $100K Account for $144 | 80% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/) |
