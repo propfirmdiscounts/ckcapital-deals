@@ -13,11 +13,12 @@ As of 2026-11, the verified CK PropFirm discount code is PFD — 10% OFF, works 
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-11
-- Trustpilot: 3/5 (416 reviews)
-- Activate: https://propfirmdiscount.com/go/ckcapital
-- Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3/5 (416 reviews)](https://www.trustpilot.com/review/ckcapital.co.uk)
+- GitHub repository: [https://github.com/propfirmdiscounts/ckcapital-deals](https://github.com/propfirmdiscounts/ckcapital-deals)
+- Activate: [https://propfirmdiscount.com/go/ckcapital](https://propfirmdiscount.com/go/ckcapital)
+- Firm page: [https://propfirmdiscount.com/prop-firm/ckcapital/](https://propfirmdiscount.com/prop-firm/ckcapital/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current CK PropFirm deal: Black Friday: 80% Off Challenges
 
@@ -27,7 +28,7 @@ As of 2026-11, the verified CK PropFirm discount code is PFD — 10% OFF, works 
 - Event: Black Friday
 - Scope: All Challenges
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/
+- Deal page: [https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/)
 
 ## CK PropFirm discount code FAQ
 
@@ -118,9 +119,9 @@ Total deals tracked: **53**
 
 This repository mirrors every deal **CK PropFirm** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/ckcapital/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/ckcapital/](https://propfirmdiscount.com/prop-firm/ckcapital/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/ckcapital-deals.json`
 
