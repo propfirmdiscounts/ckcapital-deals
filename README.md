@@ -1,6 +1,6 @@
 # CK PropFirm - Discount Codes & Deal History
 
-As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday: 80% Off Challenges".
 
 > CK Capital is a premium proprietary trading evaluation firm dedicated to discovering, developing, and scaling trading talent through a structured and transparent two-step evaluation process. This includes the CK Capital Challenge followed by a Verification stage, designed to assess consistency, discipline, and professional risk management.
 > We offer traders access to capital allocation of up to $1.2 million, empowering them to grow responsibly while trading under clearly defined rules. Our evaluation model is built to support sustainable performance rather than short-term speculation.
@@ -14,11 +14,11 @@ As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, 
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-11
 - Trustpilot: [3/5 (416 reviews)](https://www.trustpilot.com/review/ckcapital.co.uk)
-- GitHub repository: [https://github.com/propfirmdiscounts/ckcapital-deals](https://github.com/propfirmdiscounts/ckcapital-deals)
-- Activate: [https://propfirmdiscount.com/go/ckcapital](https://propfirmdiscount.com/go/ckcapital)
-- Firm page: [https://propfirmdiscount.com/prop-firm/ckcapital/](https://propfirmdiscount.com/prop-firm/ckcapital/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [CK PropFirm Deals Repository](https://github.com/propfirmdiscounts/ckcapital-deals)
+- Activate: [Activate CK PropFirm Discount Code](https://propfirmdiscount.com/go/ckcapital)
+- Firm page: [CK PropFirm Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/ckcapital/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [CK PropFirm API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current CK PropFirm deal: Black Friday: 80% Off Challenges
 
@@ -28,7 +28,7 @@ As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, 
 - Event: Black Friday
 - Scope: All Challenges
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/)
+- Deal page: [CK PropFirm Deal Page](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/)
 
 ## CK PropFirm discount code FAQ
 
@@ -119,9 +119,9 @@ Total deals tracked: **53**
 
 This repository mirrors every deal **CK PropFirm** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/ckcapital/](https://propfirmdiscount.com/prop-firm/ckcapital/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [CK PropFirm Profile](https://propfirmdiscount.com/prop-firm/ckcapital/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/ckcapital-deals.json`
 
@@ -164,4 +164,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
