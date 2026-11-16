@@ -1,6 +1,6 @@
 # CK PropFirm Discount Code & Deal History
 
-As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday: 80% Off Challenges".
+As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "85% Off All Evaluation Challenges".
 
 > CK Capital is a premium proprietary trading evaluation firm dedicated to discovering, developing, and scaling trading talent through a structured and transparent two-step evaluation process. This includes the CK Capital Challenge followed by a Verification stage, designed to assess consistency, discipline, and professional risk management.
 > We offer traders access to capital allocation of up to $1.2 million, empowering them to grow responsibly while trading under clearly defined rules. Our evaluation model is built to support sustainable performance rather than short-term speculation.
@@ -12,23 +12,22 @@ As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, 
 - Code: PFD
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-11
-- Trustpilot: [3/5 (416 reviews)](https://www.trustpilot.com/review/ckcapital.co.uk)
+- Last deal published: 2026-11-16
+- Trustpilot: [2.8/5 (432 reviews)](https://www.trustpilot.com/review/ckcapital.co.uk)
 - GitHub repository: [CK PropFirm Deals Repository](https://github.com/propfirmdiscounts/ckcapital-deals)
 - Activate: [Activate CK PropFirm Discount Code](https://propfirmdiscount.com/go/ckcapital)
 - Firm page: [CK PropFirm Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/ckcapital/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [CK PropFirm API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest CK PropFirm deal: Black Friday: 80% Off Challenges
+## Latest CK PropFirm deal: 85% Off All Evaluation Challenges
 
-- Published: 2026-11-11
+- Published: 2026-11-16
 - Offer ends: Limited time
-- Offer: 80% off
-- Event: Black Friday
-- Scope: All Challenges
+- Offer: 85% off
+- Scope: All Evaluation Challenges
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [CK PropFirm Deal Page](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/)
+- Deal page: [CK PropFirm Deal Page](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/)
 
 ## CK PropFirm Discount Code & Deals FAQ
 
@@ -42,18 +41,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current CK PropFirm deal?**
 
-**Black Friday: 80% Off Challenges** — published 2026-11-11. Offer ends: Limited time. The offer is 80% off.
+**85% Off All Evaluation Challenges** — published 2026-11-16. Offer ends: Limited time. The offer is 85% off.
 
 ---
 
 ## CK PropFirm Deal History
 
-Total deals tracked: **53**
+Total deals tracked: **54**
 
-### 2026 (37 deals)
+### 2026 (38 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-16 | CK PropFirm: 85% Off All Evaluation Challenges | 85% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/) |
 | 2026-11-11 | CK PropFirm: Black Friday: 80% Off Challenges | 80% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) |
 | 2026-11-06 | CK PropFirm: Diwali 80% Off All Challenges | 80% off | 2026-11-11 (ended) | Diwali | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/) |
 | 2026-11-02 | CK PropFirm: 75% off every challenge account | 75% off | 2026-11-30 | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/) |
