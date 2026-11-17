@@ -1,4 +1,4 @@
-# CK PropFirm Discount Codes
+# CK PropFirm Discount Code & Deals History
 
 This dataset tracks historical deal observations for CK PropFirm from PropFirmDiscount.com.
 

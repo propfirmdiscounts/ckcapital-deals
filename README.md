@@ -1,4 +1,4 @@
-# CK PropFirm Discount Code & Deal History
+# CK PropFirm Discount Code, Deals History & Dataset
 
 As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "85% Off All Evaluation Challenges".
 
@@ -14,7 +14,7 @@ As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, 
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
 - Trustpilot: [2.8/5 (432 reviews)](https://www.trustpilot.com/review/ckcapital.co.uk)
-- GitHub repository: [CK PropFirm Deals Repository](https://github.com/propfirmdiscounts/ckcapital-deals)
+- GitHub repository: [CK PropFirm Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/ckcapital-deals)
 - Activate: [Activate CK PropFirm Discount Code](https://propfirmdiscount.com/go/ckcapital)
 - Firm page: [CK PropFirm Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/ckcapital/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -29,7 +29,7 @@ As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, 
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [CK PropFirm Deal Page](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/)
 
-## CK PropFirm Discount Code & Deals FAQ
+## CK PropFirm Discount Code & Deals History FAQ
 
 **What is the CK PropFirm discount code?**
 
@@ -45,7 +45,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## CK PropFirm Deal History
+## CK PropFirm Deals History
 
 Total deals tracked: **54**
 
@@ -59,7 +59,7 @@ Total deals tracked: **54**
 | 2026-11-02 | CK PropFirm: 75% off every challenge account | 75% off | 2026-11-30 | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/) |
 | 2026-10-23 | CK PropFirm: 80% Off Challenges in Final 24 Hours | 80% off | 2026-10-24 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/) |
 | 2026-10-20 | CK PropFirm: 80% Off Challenge Fees: $100K Account for $144 | 80% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/) |
-| 2026-10-16 | CK PropFirm: 75% Off All Accounts Upfront Fee | 75% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/) |
+| 2026-10-16 | CK PropFirm: 75% Off All Accounts Upfront Fee | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/) |
 | 2026-10-14 | CK PropFirm: 75% Off Challenge Pricing and Resets | 75% off | 2026-10-21 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/) |
 | 2026-09-06 | CK PropFirm: $100K Evaluation Account for $199 Purchase Details | Only $199 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-100k-account-199-deal/) |
 | 2026-09-01 | CK PropFirm: 70% Off Evaluation Accounts and 75% Off Resets | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-september-promo/) |
@@ -115,7 +115,7 @@ Total deals tracked: **54**
 
 ---
 
-## About the CK PropFirm Deals Dataset
+## About the CK PropFirm Discount Code & Deals History Dataset
 
 This repository mirrors every deal **CK PropFirm** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -123,7 +123,7 @@ This repository mirrors every deal **CK PropFirm** has published on PropFirmDisc
 - Prop firm profile: [CK PropFirm Profile](https://propfirmdiscount.com/prop-firm/ckcapital/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## CK PropFirm Deal Dataset: Field Definitions
+## CK PropFirm Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
