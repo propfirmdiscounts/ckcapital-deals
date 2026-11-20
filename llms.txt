@@ -2,7 +2,7 @@
 
 This dataset tracks historical deal observations for CK PropFirm from PropFirmDiscount.com.
 
-Standing exclusive discount code: PFD (10%)
-Works any time on all CK PropFirm challenges and accounts.
+CK PropFirm has no standing discount code. Each offer is a campaign with
+its own code, stated on that deal's page in the dataset below.
 
 Prop firm page: https://propfirmdiscount.com/prop-firm/ckcapital/

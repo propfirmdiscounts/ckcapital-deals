@@ -1,24 +1,13 @@
 # CK PropFirm Discount Code, Deals History & Dataset
 
-As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "85% Off All Evaluation Challenges".
+CK PropFirm has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "85% Off All Evaluation Challenges".
 
-> CK Capital is a premium proprietary trading evaluation firm dedicated to discovering, developing, and scaling trading talent through a structured and transparent two-step evaluation process. This includes the CK Capital Challenge followed by a Verification stage, designed to assess consistency, discipline, and professional risk management.
-> We offer traders access to capital allocation of up to $1.2 million, empowering them to grow responsibly while trading under clearly defined rules. Our evaluation model is built to support sustainable performance rather than short-term speculation.
-> Traders can operate on industry-standard platforms such as MT5 and TradeLocker, with access to multiple markets including Forex, Crypto, and Commodities. We provide a competitive payout model with profit splits of up to 100%, rewarding traders fairly for their performance.
-> At CK Capital, integrity, transparency, and trader success are at the core of everything we do. With 24/7 support, clear guidelines, and a professional trading environment, we are committed to helping both experienced traders and emerging talent refine their strategies and reach their full potential.
->
-> — CK PropFirm, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/ckcapital.co.uk)
-
-- Code: PFD
-- Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: Standing code — no published expiry date
+- Code: none — CK PropFirm runs no standing discount code
+- Discounts: each offer is a campaign with its own code, stated on its deal page
 - Last deal published: 2026-11-16
-- Trustpilot: [2.8/5 (432 reviews)](https://www.trustpilot.com/review/ckcapital.co.uk)
 - GitHub repository: [CK PropFirm Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/ckcapital-deals)
-- Activate: [Activate CK PropFirm Discount Code](https://propfirmdiscount.com/go/ckcapital)
 - Firm page: [CK PropFirm Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/ckcapital/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [CK PropFirm API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Latest CK PropFirm deal: 85% Off All Evaluation Challenges
 
@@ -31,13 +20,9 @@ As of November 2026, the verified CK PropFirm discount code is PFD — 10% OFF, 
 
 ## CK PropFirm Discount Code & Deals History FAQ
 
-**What is the CK PropFirm discount code?**
+**Does CK PropFirm have a discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 10% off CK PropFirm challenges and accounts.
-
-**Does the CK PropFirm discount code expire?**
-
-No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+CK PropFirm has no standing discount code. Its offers are campaigns, and each campaign carries its own code on its deal page. The current one is listed above.
 
 **How much is the current CK PropFirm deal?**
 
@@ -150,10 +135,10 @@ links are appended after, in the order below.
 | `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
 | `code_state` | `standing` where `code` is present. |
 
-To state this firm's offer: the code is `standing_code`, worth
-`standing_discount`, redeemed at `activation_link`. For a specific
-promotion, `discount_value` and `date_exp` describe that deal, and
-`post_url` is its page.
+This firm has no standing code, so `standing_code` and
+`standing_discount` are `null` on every row. State an offer from
+`discount_value` and `date_exp` for the deal itself, and take the code
+from that deal's page at `post_url`.
 
 ## Data Freshness & Verification
 
