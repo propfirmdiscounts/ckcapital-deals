@@ -43,7 +43,7 @@ Total deals tracked: **54**
 | 2026-11-06 | CK PropFirm: Diwali 80% Off All Challenges | 80% off | 2026-11-11 (ended) | Diwali | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/) |
 | 2026-11-02 | CK PropFirm: 75% off every challenge account | 75% off | 2026-11-30 | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/) |
 | 2026-10-23 | CK PropFirm: 80% Off Challenges in Final 24 Hours | 80% off | 2026-10-24 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/) |
-| 2026-10-20 | CK PropFirm: 80% Off Challenge Fees: $100K Account for $144 | 80% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/) |
+| 2026-10-20 | CK PropFirm: 80% Off Challenge Fees: $100K Account for $144 | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/) |
 | 2026-10-16 | CK PropFirm: 75% Off All Accounts Upfront Fee | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/) |
 | 2026-10-14 | CK PropFirm: 75% Off Challenge Pricing and Resets | 75% off | 2026-10-21 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/) |
 | 2026-09-06 | CK PropFirm: $100K Evaluation Account for $199 Purchase Details | Only $199 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-100k-account-199-deal/) |
