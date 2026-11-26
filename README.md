@@ -1,22 +1,22 @@
 # CK PropFirm Discount Code, Deals History & Dataset
 
-CK PropFirm has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "85% Off All Evaluation Challenges".
+CK PropFirm has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "Black Friday: 30% Off All Challenges".
 
 - Code: none — CK PropFirm runs no standing discount code
 - Discounts: each offer is a campaign with its own code, stated on its deal page
-- Last deal published: 2026-11-16
+- Last deal published: 2026-11-25
 - GitHub repository: [CK PropFirm Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/ckcapital-deals)
 - Firm page: [CK PropFirm Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/ckcapital/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Latest CK PropFirm deal: 85% Off All Evaluation Challenges
+## Latest CK PropFirm deal: Black Friday: 30% Off All Challenges
 
-- Published: 2026-11-16
-- Offer ends: Limited time
-- Offer: 85% off
-- Scope: All Evaluation Challenges
+- Published: 2026-11-25
+- Offer ends: 2026-11-29 23:59
+- Offer: 30% off
+- Scope: All Challenges
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [CK PropFirm Deal Page](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/)
+- Deal page: [CK PropFirm Deal Page](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-30-off-all-challenges/)
 
 ## CK PropFirm Discount Code & Deals History FAQ
 
@@ -26,18 +26,19 @@ CK PropFirm has no standing discount code. Its offers are campaigns, and each ca
 
 **How much is the current CK PropFirm deal?**
 
-**85% Off All Evaluation Challenges** — published 2026-11-16. Offer ends: Limited time. The offer is 85% off.
+**Black Friday: 30% Off All Challenges** — published 2026-11-25. Offer ends: 2026-11-29 23:59. The offer is 30% off.
 
 ---
 
 ## CK PropFirm Deals History
 
-Total deals tracked: **54**
+Total deals tracked: **55**
 
-### 2026 (38 deals)
+### 2026 (39 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-25 | CK PropFirm: Black Friday: 30% Off All Challenges | 30% off | 2026-11-29 23:59 | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-30-off-all-challenges/) |
 | 2026-11-16 | CK PropFirm: 85% Off All Evaluation Challenges | 85% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/) |
 | 2026-11-11 | CK PropFirm: Black Friday: 80% Off Challenges | 80% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) |
 | 2026-11-06 | CK PropFirm: Diwali 80% Off All Challenges | 80% off | 2026-11-11 (ended) | Diwali | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/) |

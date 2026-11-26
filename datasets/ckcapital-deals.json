@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13478,
+    "title": "Black Friday: 30% Off All Challenges",
+    "offer_type": "coupon",
+    "discount_value": "30%",
+    "scope": [
+      "All Challenges"
+    ],
+    "date_published": "2026-11-25",
+    "date_exp": "2026-11-29 23:59",
+    "event": null,
+    "last_verified": "2026-11-25",
+    "post_url": "https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-30-off-all-challenges/",
+    "prop_firm": "CK PropFirm",
+    "prop_firm_slug": "ckcapital",
+    "standing_code": null,
+    "standing_discount": null,
+    "activation_link": "",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/ckcapital/"
+  },
+  {
     "deal_id": 13245,
     "title": "85% Off All Evaluation Challenges",
     "offer_type": "coupon",
